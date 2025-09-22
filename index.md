@@ -1,4 +1,5 @@
 # My top #5 tech I'd like to try out next
+![Image of warriow japanese woman and a dragon](https://raw.githubusercontent.com/Almudena-Rendon/css-anime-carousel/refs/heads/main/public/Image-3.webp)
 ## React Native
 I would really dive into the mobile app creation world.
 ## Next.js

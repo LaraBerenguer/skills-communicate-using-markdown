@@ -11,6 +11,13 @@ I would love to deep dive into AWS, Azure and understand perfectly CI/CD.
 ## Vue.js
 Really looking forward to master other frontend modern frameworks.
 
+This is my plan:
+- [x] Learn Markdown
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Learn new tools
+- [ ] Profit
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/

@@ -10,3 +10,9 @@ I'm really really curious about MongoDB. I'm a postgreSQL stan but I'm intereste
 I would love to deep dive into AWS, Azure and understand perfectly CI/CD.
 ## Vue.js
 Really looking forward to master other frontend modern frameworks.
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+This is just a test!
+```
